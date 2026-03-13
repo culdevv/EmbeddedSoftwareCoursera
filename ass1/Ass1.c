@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "Assignment1.h"
+#include "Ass1.h"
 
 int main(){
 
